@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Popular Movies</string>
+    <string name="top_rated">Top Rated</string>
+    <string name="most_popular">Most Popular</string>
+    <string name="movie_detail">Movie Detail</string>
+    <string name="error_message">No Internet Connection.
+        Make sure that Wi-Fi or cellular mobile data is turned on, then try again.</string>
+    <string name="refresh">Refresh</string>
+</resources>
